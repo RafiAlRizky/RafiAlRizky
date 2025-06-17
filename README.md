@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Rafi Al Rizky</h1>
-<h3 align="center">Student Need To Learn 🐧</h3>
+<h3 align="center">Student Who Need To Learn 🐧</h3>
 
 <br><br>
 
